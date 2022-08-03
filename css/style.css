@@ -11,7 +11,7 @@ nav li{
 	    margin: 0 13px;
 }
 #intro .jumbotron{
-	background: url('../pictures/mainbg.png');
+	background: url('../picture/stuart.png');
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%;
@@ -283,4 +283,38 @@ header nav img{
 	    margin-top: 30px;
 	    margin-bottom: 18px;
 	}
+}
+
+#second .pic1{
+	border-radius:20px;
+}
+#second .pic2{
+	border-radius:50%;
+}
+#second img{
+	width: 70%;
+	border:1px solid #ccc;
+	padding:8px;
+	box-shadow: 2px 2px 3px #ccc;
+  	margin-right: 10px;
+}
+#second h1{
+	font-family:cursive;
+}
+#second h2{
+	font-family:"Arial Black";
+}
+#second h3{
+	font-family:cursive;
+}
+#second h4{
+	font-family:"Arial Black";
+}
+#second h5{
+	font-family:標楷體;
+	font-weight:bold;
+}
+#second h6{
+	font-family:標楷體;
+	font-weight:bold;
 }
